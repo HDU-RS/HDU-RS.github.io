@@ -1,0 +1,1 @@
+import{_ as c,o as t,c as o,p as a,a as _,b as s}from"./index-315f1b93.js";const n={},d=e=>(a("data-v-35328f53"),e=e(),_(),e),p={class:"main"},i=d(()=>s("div",{class:"content"},[s("div",{class:"content-gap"},[s("div",{class:"title"}," 团队简介 ")])],-1)),r=[i];function l(e,f){return t(),o("div",p,r)}const m=c(n,[["render",l],["__scopeId","data-v-35328f53"]]);export{m as default};
