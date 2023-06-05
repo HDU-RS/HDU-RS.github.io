@@ -1,1 +1,0 @@
-import{_ as t,o as c,c as o,p as a,a as _,b as s}from"./index-315f1b93.js";const d={},n=e=>(a("data-v-87830dff"),e=e(),_(),e),p={class:"main"},i=n(()=>s("div",{class:"content"},[s("div",{class:"content-gap"},[s("div",{class:"title"}," 关于 ")])],-1)),f=[i];function r(e,l){return c(),o("div",p,f)}const v=t(d,[["render",r],["__scopeId","data-v-87830dff"]]);export{v as default};
